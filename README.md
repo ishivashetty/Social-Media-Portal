@@ -8,3 +8,8 @@ A web application which acts as a Social Media Portal for managing all the activ
 3. Accept online donations
 4. Manage Event subscriptions
 5. Generate Admin Reports
+
+# Technical Details
+
+1. Front-end Technologies : JSP, Bootstrap, Javascript, JQuery, AJAX, CSS
+2. Back-end : Java, MySQL
