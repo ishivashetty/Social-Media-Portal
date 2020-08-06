@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+html,body
+{
+  	width:100%;
+  	height:100%;
+}
+
+body
+{
+  	font-family: 'Montserrat', sans-serif;
+  	background-image: url('images/reg.jpg');
+	background-repeat: no-repeat;
+	padding: 15px;
+}
+
+#navbarTop
+{
+	background-color: black;
+}
+
+#regPanel
+{
+	text-align: center;
+	padding-left: 2%;
+	padding-right: 2%;
+	background: lightgray;
+}
+
