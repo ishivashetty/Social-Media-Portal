@@ -9,7 +9,8 @@ A web application which acts as a Social Media Portal for managing all the activ
 4. Manage Event subscriptions
 5. Generate Admin Reports
 
-# Technical Details
+# Specs
 
 1. Front-end Technologies : JSP, Bootstrap, Javascript, JQuery, AJAX, CSS
-2. Back-end : Java, MySQL
+2. Back-end : Java
+3. Database : MySQL
