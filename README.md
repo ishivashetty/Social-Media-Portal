@@ -11,6 +11,6 @@ A web application which acts as a Social Media Portal for managing all the activ
 
 # Specs
 
-1. Front-end Technologies : JSP, Bootstrap, Javascript, JQuery, AJAX, CSS
+1. Front-end : JSP, Bootstrap, Javascript, JQuery, AJAX, CSS
 2. Back-end : Java
 3. Database : MySQL
